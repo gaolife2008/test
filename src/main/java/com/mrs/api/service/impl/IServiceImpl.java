@@ -11,7 +11,7 @@ public class IServiceImpl implements IService {
         User user = new User();
         user.setNum("28dddddd417");
         user.setAge("30");
-        user.setName("gaohongzhou");
+        user.setName("1111");
         return user;
     }
 }
